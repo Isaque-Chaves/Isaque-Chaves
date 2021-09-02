@@ -1,0 +1,3 @@
+- 👋 Aoba, sou o Isaque
+- 📚 Focado em me torna um Cientista de Dados
+- 📚 Nas horas vagas vou de Flutter 
