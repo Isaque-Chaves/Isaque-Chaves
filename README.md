@@ -1,3 +1,3 @@
 - 👋 Aoba, sou o Isaque
 - 📚 Iniciante na área de Data Science
-- 📚 Nas horas vagas vou de Flutter
+- 📲 Nas horas vagas vou de Flutter
