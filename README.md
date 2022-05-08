@@ -16,3 +16,5 @@ ________________________________________________________________________________
 📚 Tenho conhecimento básico: ![python](https://user-images.githubusercontent.com/89978495/167310342-f18de6b4-4317-4891-a913-cd82d4853ab6.png) ![bigquery](https://user-images.githubusercontent.com/89978495/167310707-c0c99391-69d0-44ad-8f19-11bf86ba338c.png) ![datastudio](https://user-images.githubusercontent.com/89978495/167310455-0dbd74f2-bc05-44ed-b4a5-d00c2e2897f0.png) ![tableu](https://user-images.githubusercontent.com/89978495/167310648-25e9cd5d-db5a-4a9a-b627-af0c060f4f2b.png)
  
  🌱 Estou aprendendo: ![bigdata](https://user-images.githubusercontent.com/89978495/167311117-727453bf-f8e4-4265-9d32-63b5ea027576.png) ![pyspark](https://user-images.githubusercontent.com/89978495/167310960-2105825d-bb32-4297-8f5b-78ee415be61f.png) 
+
+https://www.linkedin.com/in/isaque-chaves-a591aa141/
