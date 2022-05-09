@@ -18,3 +18,5 @@ ________________________________________________________________________________
  🌱 Estou aprendendo: ![bigdata](https://user-images.githubusercontent.com/89978495/167311117-727453bf-f8e4-4265-9d32-63b5ea027576.png) ![pyspark](https://user-images.githubusercontent.com/89978495/167310960-2105825d-bb32-4297-8f5b-78ee415be61f.png) 
 
 https://www.linkedin.com/in/isaque-chaves-a591aa141/
+
+***EM BREVE DIVULGAREI ALGUNS PROJETOS NO QUAL JÁ TRABALHEI**
